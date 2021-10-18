@@ -14,13 +14,7 @@ http://jmcauley.ucsd.edu/data/amazon/index_2014.html
 - [Literature Review](https://drive.google.com/drive/folders/1H_DjSv5xl1DP-o0ejYsmil1nJEVjMWgX?usp=sharing)
 - [Project Report - IEEE Format Paper](https://drive.google.com/drive/folders/14ccg7k00QGlAc3ijbAj5JaqiYizgfrwP?usp=sharing)
 
-## Team-34 <br>
-- Sanskriti Pattanayak - [@sanskritip](https://github.com/sanskritip)
-- Venkatavaradan Raghuraman - [@venkatavaradan-R](https://github.com/Venkatavaradan-R)
-- Avinash V K - [@avinash-vk](https://github.com/avinash-vk)
-- Akshay C Patil - [@akshaycpatil](https://github.com/akshaycpatil)
 
----
 
 ## Running the project
 
